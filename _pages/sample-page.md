@@ -1,12 +1,14 @@
 ---
 ID: 2
 post_title: 示例页面
+post_name: sample-page
 author: Captain
-post_excerpt: ""
-layout: page
-permalink: https://moker.io/?page_id=2
-published: true
 post_date: 2018-09-20 16:19:59
+layout: page
+link: https://moker.io/?page_id=2
+published: true
+tags: [ ]
+categories: [ ]
 ---
 这是示范页面。页面和博客文章不同，它的位置是固定的，通常会在站点导航栏显示。很多用户都创建一个“关于”页面，向访客介绍自己。例如：
 
