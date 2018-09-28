@@ -22,35 +22,22 @@ categories:
 ###  程序员词典
 
 Accessor:访问
-
+positive:正
 customize:定制
-
 Delegate : 代表
-
 constant n常量
-
 variable n 变量
-
 dictionary n字典
-
 integer n整数，整型
-
 keyword n关键字
-
 static adj静态的
-
 class n 类
-
 subclass n 子类
-
 superclass n父类
-
-polymorphism n多态 inherit v继承
-
+polymorphism n多态 
+inherit v继承
 inheritance n继承
-
 interface n接口
-
 structure n结构
 
 instance n 实例
@@ -218,11 +205,8 @@ compile v编译
 characteristic n性质
 
 override v重写，复写
-
 overload v重载
-
 index n索引
-
 syntax n语法
 
 
