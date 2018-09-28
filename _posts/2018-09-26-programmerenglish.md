@@ -126,7 +126,7 @@ categories:
 - index n索引
 - syntax n语法
 - genesis 创世纪
-
-
-
-
+- consensus 共识
+- issues 问题
+- proof 证明
+- once 计数器，密码学术语
