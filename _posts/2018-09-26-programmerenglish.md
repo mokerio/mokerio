@@ -17,7 +17,7 @@ categories:
 
 <img src="https://mokerio.oss-cn-hangzhou.aliyuncs.com/2018-9-18%20搭建%20墨客/2018_9_24-memory.jpg" alt="Memory" />
 
-[ivory-search id="99" title="Default Search Form_copy"]
+[ivory-search id="96" title="Default Search Form"]
 
 <ul>
 <li><strong>accessor</strong>:访问.eg:AttributeAccessor</li>
