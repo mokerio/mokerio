@@ -12,7 +12,6 @@ tags:
 categories:
   - Coding
 ---
-<img src="https://mokerio.oss-cn-hangzhou.aliyuncs.com/2018-9-18%20搭建%20墨客/2018_9_24-memory.jpg" alt="Memory" />
 程序员英语字典
 <!--more-->
 
