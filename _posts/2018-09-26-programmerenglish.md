@@ -17,8 +17,6 @@ categories:
 
 [ivory-search id="96" title="Default Search Form"]
 
-<h2>程序员英语字典</h2>
-
 <ul>
 <li><strong>accessor</strong>:访问.eg:AttributeAccessor</li>
 <li><strong>customize</strong>:定制.eg:customizeContext</li>
