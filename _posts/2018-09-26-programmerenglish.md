@@ -15,7 +15,7 @@ categories:
 
 <!--more-->
 
-[ivory-search id="96" title="Default Search Form"]
+[ivory-search id="99" title="Default Search Form_copy"]
 
 <ul>
 <li><strong>accessor</strong>:访问.eg:AttributeAccessor</li>
