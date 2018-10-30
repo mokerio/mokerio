@@ -88,7 +88,7 @@ K线按照组成来说包含实体和上下影线。
 ![4](https://mokerio.oss-cn-hangzhou.aliyuncs.com/看盘的技巧/2018_10_30-004.png)
 
 1. 螺旋桨K线
-
+ 
 ![5](https://mokerio.oss-cn-hangzhou.aliyuncs.com/看盘的技巧/2018_10_30-005.png)
 
 ![6](https://mokerio.oss-cn-hangzhou.aliyuncs.com/看盘的技巧/2018_10_30-006.png)
