@@ -15,7 +15,7 @@ categories:
 
 <!--more-->
 
-<img src="http://7xpuj1.com1.z0.glb.clouddn.com/dictionary.png" alt="dictionary" />
+<img src="http://img5.imgtn.bdimg.com/it/u=4040220968,2433021703&fm=26&gp=0.jpg" alt="dictionary" />
 
 [ivory-search id="96" title="Default Search Form"]
 
